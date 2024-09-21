@@ -1,1 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prelims-resume</title>
+    <style>
+        body { font-family: Arial, sans-serif; color: #333; }
+        .container { width: 80%; margin: auto; }
+        .header { background-color: #024262; color: white; padding: 10px; text-align: center; }
+        .profile-img { position: absolute; top: 18px; right: 200px;;width: 150px;height: 150px; }
+        .section-title { background-color: #024262; color: white; padding-left: 10px; }
+        .details { margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <div>
+            <h1>Rhema R. Santos</h1>
+            <p>Caingin,San Rafael, Bulacan<br>Email: rhemasantos@gmail.com<br>Contact No.: 0910-222-3785</p>
+        </div>
+     <img src="PIC/RhemaSantos.jpg" alt="" class="profile-img">
+    </div>
+
+    <div class="section">
+        <div class="section-title"><h2>Personal Information</h2></div>
+        <p>Date of Birth: October 25, 2003<br>Place of Birth: Baliwag, Bulacan<br>Civil Status: Single<br>Nationality: Filipino</p>
+    </div>
+
+    <div class="section">
+        <div class="section-title"><h2>Education</h2></div>
+        <p><b>Tertiary Education 2021-present</b><br>BS in Information Technology<br>Baliuag Polytechnic College<br>Poblacion, Baliwag, Bulacan</p>
+        <p><b>Upper Secondary Education 2019-2021</b><br>Science,Technology, Engineering, and Mathematics<br>San Rafael National Trade School<br>Caingin, SanRafael, Bulacan</p>
+        <p><b>Lower Secondary Education  2015-2019</b><br>San Rafael National Trade School<br> Caingin, SanRafael, Bulacan</p>
+        <p><b>Primary Education 2007-2015</b><br>Caingin Elementary School<br> Caingin,SanRafael,Bulacan</p>
+    </div>
+
+    <div class="section">
+        <div class="section-title"><h2>Skills</h2></div>
+        <ul>
+            <li>Able to think quickly and fast learning in everytask.</li>
+            <li>Drawing traditionally.</li>
+            <li>Creative thinking skills.</li>
+            <li>Ability to communicate and teamwork.</li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <div class="section-title"><h2>Work Experience</h2></div>
+        <p> Freelance Artist<br>Responsibilities: Make and sell artworks base on client preferences.</p>
+    </div>
+
+    <div class="section">
+        <div class="section-title"><h2>Achievements</h2></div>
+        <ul>
+            <li>Grade 7 conduct awardee</li>
+            <li>Senior HighSchool Graduate With Honors</li>
+            <li>Grade 11 With Honors</li>
+            <li>Junior HighSchool Completer With Honors</li>
+            <li>Grade 9 With Honors</li>
+            <li>Top Student at Microlink Institute of Science and Technology</li>
+        </ul>
+    
+    </div>
+
+    <div class="section">
+        <div class="section-title"><h2>Character References</h2></div>
+        <p>Alexander S. Arambulo<br>Work:Yellow Cab Worker <br>Contact No.:0922-346-4404</p>
+
+    </div>
+</div>
+</body>
+</html>
 
